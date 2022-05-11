@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>copy</name>
+=======
+	<name>repo</name>
+>>>>>>> branch 'master' of git@github.com:PaulIzotov/origineclipse.git
 	<comment></comment>
 	<projects>
 	</projects>
